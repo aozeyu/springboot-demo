@@ -27,7 +27,7 @@ public class SwaggerConfig {
                 .apiInfo(apiInfo()).enable(true)
                 .select()
                 //apis： 添加swagger接口提取范围
-                .apis(RequestHandlerSelectors.basePackage("top.codingmore.controller"))
+                .apis(RequestHandlerSelectors.basePackage("top.codingmore.tobebetterjavaer.controller"))
                 .paths(PathSelectors.any())
                 .build();
 
