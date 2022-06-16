@@ -1,4 +1,4 @@
-package top.codingmore.tobebetterjavaer.config;
+package top.codingmore.tobebetterjavaer.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
